@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<application xmlns="http://ns.adobe.com/air/application/2.0">
+
+  <id>inc.ogbz.DesktopCountdown</id>
+
+  <version>2.45</version>
+
+  <filename>Desktop Countdown</filename>
+
+  <description>know the exact ammount of time left for any event of your choice right down to the second</description>
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+<!-- To localize the description, use the following format for the description element.<description><text xml:lang="en">English App description goes here</text><text xml:lang="fr">French App description goes here</text><text xml:lang="ja">Japanese App description goes here</text></description>-->
+
+  <name>Desktop Countdown</name>
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+<!-- To localize the name, use the following format for the name element.<name><text xml:lang="en">English App name goes here</text><text xml:lang="fr">French App name goes here</text><text xml:lang="ja">Japanese App name goes here</text></name>-->
+
+  <copyright>Ogbizi</copyright>
+
+  <initialWindow>
+    <content>Desktop%20Countdown.swf</content>
+    <systemChrome>none</systemChrome>
+    <transparent>true</transparent>
+    <visible>true</visible>
+    <fullScreen>false</fullScreen>
+    <aspectRatio>portrait</aspectRatio>
+    <renderMode>auto</renderMode>
+    <maximizable>true</maximizable>
+    <minimizable>true</minimizable>
+    <resizable>true</resizable>
+    <width>0</width>
+    <height>0</height>
+    <x>0</x>
+    <y>0</y>
+    <minSize>0 0</minSize>
+    <maxSize>0 0</maxSize>
+  </initialWindow>
+
+  <icon>
+    <image16x16>countdown_16.png</image16x16>
+    <image32x32>countdown_32.png</image32x32>
+    <image48x48>countdown_48.png</image48x48>
+    <image128x128>countdown_128.png</image128x128>
+  </icon>
+
+  <customUpdateUI>false</customUpdateUI>
+
+  <allowBrowserInvocation>false</allowBrowserInvocation>
+
+
+
+
+
+  <supportedProfiles>desktop extendedDesktop </supportedProfiles>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</application>
